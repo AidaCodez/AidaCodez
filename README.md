@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Aida
  - 👩🏻‍💻 UI-focused developer transitioning into web development, applying the same principles to turn ideas into functional and interactive user experiences.
  - 🌱 Currently building projects with the PERN stack (PostgreSQL, Express, React, Node.js) to strengthen my full-stack foundation. [View the project here](https://your-render-url.onrender.com)
- - 💼 Open to work and ready to take on front-end or full-stack development roles. Reach me at [LinkedIn](https://www.linkedin.com/in/your-username/) to further discuss!
+ - 💼 Open to work and ready to take on front-end or full-stack development roles. Reach me at [LinkedIn](http://www.linkedin.com/in/aidacodez) to further discuss!
 
 
 # 💻 Tech Stack:
