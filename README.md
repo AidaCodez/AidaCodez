@@ -10,6 +10,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AidaCodez&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=AidaCodez&theme=radical&hide_border=false)
+<a href="https://www.linkedin.com/in/aidacodez" target="_blank"><img src="https://github.com/user-attachments/assets/ada5cdfe-efd8-4be8-96a3-4c8aae743796" width="200" height="200" align="right" /></a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **AidaCodez/AidaCodez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
